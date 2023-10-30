@@ -47,6 +47,6 @@ For translation and summarization tasks, the Hugging Face library was utilized. 
 The evaluation demonstrates the capabilities of the multilingual speech recognition model, highlighting areas of strength and suggesting potential avenues for further improvement in multilingual ASR applications.
 
 ## Project Image
-![Project Image](demo.png)
+![Project Image](./demo.png)
 
 Please feel free to modify the contents as needed to provide a comprehensive overview of your project.
